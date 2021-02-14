@@ -1,0 +1,42 @@
+
+img{
+	border: groove 1px blue;
+	padding: 50px;
+	margin: 30px;
+	border-radius: 10px;
+	height: 150px;
+	width: 150px;
+	background: linear-gradient(yellow,cyan,orange)
+}
+body{
+	background-image: url(jungle.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	color:white;
+	font-weight: bolder;
+	font-size: 39px;
+	font-family: Algerian;
+	background-attachment: fixed;
+	text-align: center;
+	
+}
+.title{
+	font-size: 120px;
+	color: cyan;
+	font-family: AR Destine;
+	text-align: center;
+    text-decoration: underline;
+}
+span{
+	font-size: 45px;
+	color: red;
+	font-family: AR Darling;
+	text-decoration: underline;
+	background: linear-gradient(blue,yellow,grey);
+	padding: 15px;
+}
+h1{
+	text-align: center;
+	color:blue;
+	font-family: sans-serif;
+}	
