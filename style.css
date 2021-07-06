@@ -28,15 +28,16 @@ body{
     text-decoration: underline;
 }
 span{
-	font-size: 45px;
+	font-size: 40px;
 	color: red;
 	font-family: AR Darling;
 	text-decoration: underline;
 	background: linear-gradient(blue,yellow,grey);
-	padding: 15px;
+	padding: 8px;
 }
 h1{
 	text-align: center;
 	color:blue;
 	font-family: sans-serif;
 }	
+																																																																																																																																																						
